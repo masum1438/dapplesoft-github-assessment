@@ -1,4 +1,10 @@
+
 Dashboard content from main branch
 Dashboard content from feature branch
 Dashboard content from main branch
 This line is from main branch
+
+Dashboard feature
+Dashboard content from feature branch
+This line is from feature/dashboard branch
+
