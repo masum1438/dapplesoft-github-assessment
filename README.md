@@ -1,1 +1,2 @@
-# dapplesoft-github-assessment
+# HTTPS Clone Method
+This repository was cloned using HTTPS.
